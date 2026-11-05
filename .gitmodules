@@ -1,0 +1,3 @@
+[submodule "devops-assessment"]
+	path = devops-assessment
+	url = git@github.com:j-maynard/devops-assessment

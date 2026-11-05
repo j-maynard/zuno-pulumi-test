@@ -1,0 +1,6 @@
+encryptionsalt: v1:dKR9jsotxjg=:v1:wI6xDswyszIOCARR:FUniD/6YBLZuk4Tlk9LAvSIR5LyKZg==
+config:
+  aws:region: eu-north-1
+  zuno-test:containerPort: "8080"
+  zuno-test:cpu: "128"
+  zuno-test:memory: "128"
